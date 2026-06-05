@@ -149,6 +149,12 @@ Estabilidade: 90% | NORMAL
 Pontuação de risco: 0
 Classificação: MISSÃO ESTÁVEL
 ------------------------------------------------------------------------------------------------------------------------------------------
+▶️ Como Executar
+Clone o repositório:
+git clone [https://github.com/SEU-USUARIO/mission-control-ai.git](https://github.com/GustavoCCOliveira/GS--Pensamento-Computacional-e-Automa-o-com-Python-.git)
+Execute:
+python mission_control.py
+------------------------------------------------------------------------------------------------------------------------------------------
 👥 Integrantes
 
 Nome:Gustavo Torres de Oliveira
