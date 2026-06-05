@@ -1,8 +1,6 @@
-🚀 PROJETO APOLLO 🚀
+🚀 PROJETO EDEN 🚀
 Global Solution 2026.1
 Pensamento Computacional e Automação com Python - 1CCPF - 
-RM: 561975 Rafael laprega gontijo magalhaes
-RM: 572952 Gustavo Torres de Oliveira
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 📋 Descrição do Projeto
@@ -150,3 +148,14 @@ Estabilidade: 90% | NORMAL
 
 Pontuação de risco: 0
 Classificação: MISSÃO ESTÁVEL
+------------------------------------------------------------------------------------------------------------------------------------------
+👥 Integrantes
+
+Nome:Gustavo Torres de Oliveira
+
+RM: 572952
+
+Nome: Rafael laprega gontijo magalhaes
+
+RM: 561975
+
