@@ -8,8 +8,8 @@
 # Dados da missão
 # -----------------------------
 
-nome_missao = "Orion Test Alpha"
-nome_equipe = "Equipe Apollo"
+nome_missao = "ALADA test Alpha"
+nome_equipe = "Equipe EDEN"
 
 dados_missao = [
     [24, 92, 88, 96, 90],
