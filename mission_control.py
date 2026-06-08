@@ -1,12 +1,8 @@
-# ============================================================
 # MISSION CONTROL AI
 # Global Solution 2026.1
 # Pensamento Computacional e Automação com Python
-# ============================================================
 
-# -----------------------------
-# Dados da missão
-# -----------------------------
+# Dados da missao
 
 nome_missao = "ALADA test Alpha"
 nome_equipe = "Equipe EDEN"
@@ -28,13 +24,9 @@ areas_monitoradas = [
     "Estabilidade operacional"
 ]
 
-# Acumuladores de risco por área
 risco_areas = [0, 0, 0, 0, 0]
 
-
-# ============================================================
-# FUNÇÕES DE ANÁLISE
-# ============================================================
+# FUNCOES DE ANALISE
 
 def analisar_temperatura(valor):
     if valor < 18:
@@ -83,9 +75,7 @@ def analisar_estabilidade(valor):
         return "NORMAL", 0, "Estabilidade operacional adequada"
 
 
-# ============================================================
-# CLASSIFICAÇÃO DOS CICLOS
-# ============================================================
+# CLASSIFICACAO DOS CICLOS
 
 def classificar_ciclo(risco):
     if risco <= 2:
@@ -96,9 +86,7 @@ def classificar_ciclo(risco):
         return "MISSÃO CRÍTICA"
 
 
-# ============================================================
-# RECOMENDAÇÕES
-# ============================================================
+# RECOMENDACOES
 
 def gerar_recomendacao(risco):
     if risco <= 2:
@@ -111,9 +99,7 @@ def gerar_recomendacao(risco):
         return "Ativar modo de segurança e priorizar suporte à vida, energia e comunicação."
 
 
-# ============================================================
-# TENDÊNCIA DA MISSÃO
-# ============================================================
+# TENDENCIA DA MISSAO
 
 def analisar_tendencia(primeiro_risco, ultimo_risco):
     if ultimo_risco > primeiro_risco:
@@ -125,10 +111,7 @@ def analisar_tendencia(primeiro_risco, ultimo_risco):
     else:
         return "A missão permaneceu estável em relação ao início."
 
-
-# ============================================================
-# ÁREA MAIS AFETADA
-# ============================================================
+# AREA MAIS AFETADA
 
 def identificar_area_mais_afetada(riscos):
     maior = max(riscos)
@@ -136,10 +119,7 @@ def identificar_area_mais_afetada(riscos):
 
     return areas_monitoradas[indice], maior
 
-
-# ============================================================
-# PROCESSAMENTO DA MISSÃO
-# ============================================================
+# PROCESSAMENTO DA MISSAO
 
 riscos_ciclos = []
 
@@ -210,10 +190,7 @@ for numero_ciclo, ciclo in enumerate(dados_missao, start=1):
     print(f"Classificação do ciclo: {classificacao}")
     print(f"Recomendação: {gerar_recomendacao(risco_total)}")
 
-
-# ============================================================
-# RELATÓRIO FINAL
-# ============================================================
+# RELATORIO FINAL
 
 quantidade_ciclos = len(dados_missao)
 
