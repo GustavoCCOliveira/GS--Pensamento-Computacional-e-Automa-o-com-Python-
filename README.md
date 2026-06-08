@@ -155,6 +155,10 @@ git clone [https://github.com/SEU-USUARIO/mission-control-ai.git](https://github
 Execute:
 python mission_control.py
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+Video picth: (https://youtu.be/ZICPyhq4kEc)
+
+------------------------------------------------------------------------------------------------------------------------------------------
 👥 Integrantes
 
 Nome:Gustavo Torres de Oliveira
