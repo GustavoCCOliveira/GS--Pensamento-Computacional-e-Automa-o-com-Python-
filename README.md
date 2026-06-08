@@ -5,7 +5,7 @@ Pensamento Computacional e Automação com Python - 1CCPF -
 ------------------------------------------------------------------------------------------------------------------------------------------
 📋 Descrição do Projeto
 
-O Projeto APOLLO é um sistema inteligente desenvolvido em Python para simular o monitoramento de uma missão espacial experimental.
+O Projeto ENDEN é um sistema inteligente desenvolvido em Python para simular o monitoramento de uma missão espacial experimental.
 
 O objetivo do sistema é acompanhar diferentes indicadores operacionais da missão, identificar riscos, gerar alertas automáticos, analisar tendências e produzir um relatório final para auxiliar a tomada de decisão da equipe de controle.
 
@@ -137,7 +137,7 @@ Reduzir operações não essenciais.
 MISSION CONTROL AI
 
 Missão: ALADA Test Alpha
-Equipe: Equipe Apollo
+Equipe: Equipe EDEN
 
 CICLO 1
 Temperatura: 24°C | NORMAL
